@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-404-demo",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.2"
+  }
+}
